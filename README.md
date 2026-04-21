@@ -65,7 +65,7 @@ Estou constantemente me atualizando e buscando novos conhecimentos na área de t
   <h3>GitHub Stats</h3>
   <br>
   <a href="https://github.com/HenriqueR3is">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueR3is&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueR3is&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueR3is&layout=compact&langs_count=8&theme=midnight-purple"/>
 </div>
 
