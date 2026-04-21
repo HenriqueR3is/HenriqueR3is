@@ -21,7 +21,7 @@ Estou constantemente me atualizando e buscando novos conhecimentos na área de t
 [![Instagram](https://img.shields.io/badge/-Instagram-141414?style=for-the-badge&logo=instagram&logoColor=6D28D9)](https://www.instagram.com/henriquekreis/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=6D28D9)](https://www.linkedin.com/in/henrique-reis-9b98002b1)
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">My Stack</h3>
 <h4 align="left">Main Stack</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php" />
@@ -62,7 +62,7 @@ Estou constantemente me atualizando e buscando novos conhecimentos na área de t
 #
 
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
+  <h3>GitHub Stats</h3>
   <br>
   <a href="https://github.com/HenriqueR3is">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueR3is&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
